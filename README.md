@@ -5,7 +5,7 @@
 Welcome to my GitHub Portfolio.
 
 ## My Resume
-
+https://github.com/monica-r-05/my-portfolio/blob/main/Monica_Resume.pdf
 
 ## Skills
 - Java
