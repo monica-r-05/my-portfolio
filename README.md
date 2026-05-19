@@ -12,6 +12,7 @@ https://github.com/monica-r-05/my-portfolio/blob/main/Monica_Resume.pdf
 - HTML
 - CSS
 - JavaScript
+- SQL
 
 ## Projects
 1.Student Managemnt system
