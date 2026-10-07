@@ -1,6 +1,6 @@
 # Hi, I'm Monica 
 
-### Java Developer
+### Data Analyst
 
 Welcome to my GitHub Portfolio.
 
@@ -8,11 +8,14 @@ Welcome to my GitHub Portfolio.
 https://github.com/monica-r-05/my_resume/blob/main/Monica%20R_%20Resume.pdf
 
 ## Skills
-- Java
-- HTML
-- CSS
-- JavaScript
-- SQL
+SQL – Queries, JOINs, GROUP BY, Subqueries, CTEs, Window Functions
+Excel – VLOOKUP/XLOOKUP, IF, SUMIFS, COUNTIFS, Pivot Tables, Charts, Data Cleaning
+Power BI – Power Query, Data Cleaning, Data Modeling, DAX, Dashboard Creation
+Python – Pandas, NumPy, Matplotlib, Seaborn
+Data Cleaning & Preprocessing
+Data Visualization
+Data Analysis
+Basic Statistics
 
 ## Projects
 1.Student Managemnt system
